@@ -1,0 +1,17 @@
+/* 
+==============
+colorITem
+==============
+*/
+
+.colorItem {
+  box-sizing: border-box;
+  width: 250px;
+  height: 250px;
+  padding: 1rem 2rem;
+}
+
+.copyConfirmation {
+  font-size: 0.75rem;
+  color: var(--clr-copy);
+}
